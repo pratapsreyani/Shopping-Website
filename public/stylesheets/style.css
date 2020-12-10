@@ -1,0 +1,57 @@
+body {
+    color: whitesmoke;
+    background-color: darkslategrey;
+}
+
+strong {
+    color: black;
+}
+
+.caption {
+    background-color: lightgrey;
+}
+
+.jumbotron {
+    color: whitesmoke;
+    background-image: url(https://lancecashion.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-13-at-6.44.55-AM-1080x675.png);
+}
+
+.button {
+    text-decoration: none;
+}
+.navbar {
+    color: black;
+}
+
+.thumbnail img {
+    max-height:150px;
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+ul {
+    color: black;
+}
+
+
+
+.badge {
+    color: black;
+    background-color: lightcoral;
+}
+
+.panel-footer {
+    background-color: lightsteelblue;
+}
+
+.navbar {
+
+    background-color: mintcream;
+}
